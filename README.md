@@ -1,4 +1,4 @@
-# nodejs-package
+# boilerplate for nodejs app
 
 ## Setup
 
